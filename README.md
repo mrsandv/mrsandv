@@ -37,11 +37,13 @@
   ![Exercism](https://img.shields.io/badge/Exercism-black?style=flat-square&logo=exercism)
   ![HackerRank](https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank)
 
+A little bit about me: 
+
   - 🔭 I’m currently open to new opportunities as a Fullstack Developer
-- 🌱 I’m currently learning Go, Kubernetes and AI integrations
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mrsan) | [Email](mailto:mrsandv@pm.me) | [Portfolio](https://spacehole.tech)
-- ⚡ I’m a prog rock fan and I’m learning to play drums 🥁
+  - 🌱 Recently i'm into Golang, Kubernetes and AI.
+  - 👯 I’m looking to collaborate on open source projects
+  - 📫 Reach me: [LinkedIn](https://linkedin.com/in/mrsan) | [Email](mailto:mrsandv@pm.me) | [Portfolio](https://spacehole.tech)
+  - ⚡ I’m a prog rock fan and I’m learning to play drums 🥁
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=mrsandv&show_icons=true&count_private=true&theme=dracula" />
